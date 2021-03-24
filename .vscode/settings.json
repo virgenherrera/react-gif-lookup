@@ -1,0 +1,22 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true,
+    "source.organizeImports": true,
+    "source.fixAll": true
+  },
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "errorLens.addAnnotationTextPrefixes": true,
+  "errorLens.delay": 1000,
+  "files.eol": "\n",
+  "files.trimTrailingWhitespace": true,
+  "git.autofetch": true,
+  "telemetry.enableTelemetry": false,
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "cSpell.ignoreWords": [
+    "gifs",
+    "publickey"
+  ]
+}
